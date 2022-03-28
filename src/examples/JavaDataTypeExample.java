@@ -20,6 +20,7 @@ System.out.println("My Gendar is "+gender);
 System.out.println("My Name is "+Name);
 System.out.println(money1+money2);
 System.out.println("my taxes are "+tax);
+System.out.println("my taxes are "+tax);
 
 
 	
